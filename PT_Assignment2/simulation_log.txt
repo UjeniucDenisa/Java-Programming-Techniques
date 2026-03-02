@@ -1,0 +1,161 @@
+Simulation started with 4 clients and 2 queues.
+Simulation time: 60 seconds
+Arrival time range: [2, 30]
+Service time range: [2, 4]
+
+Time 0
+Waiting clients: (2,4,3); (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 1
+Waiting clients: (2,4,3); (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 2
+Waiting clients: (2,4,3); (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 3
+Waiting clients: (2,4,3); (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 4
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: (2,4,3) (remaining: 3)
+Queue 2: closed
+
+Time 5
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: (2,4,2) (remaining: 2)
+Queue 2: closed
+
+Time 6
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: (2,4,1) (remaining: 1)
+Queue 2: closed
+
+Time 7
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: (2,4,1) (remaining: 1)
+Queue 2: closed
+
+Time 8
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 9
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 10
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 11
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 12
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 13
+Waiting clients: (4,14,2); (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 14
+Waiting clients: (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: (4,14,2) (remaining: 2)
+
+Time 15
+Waiting clients: (1,16,2); (3,29,2); 
+Queue 1: closed
+Queue 2: (4,14,1) (remaining: 1)
+
+Time 16
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: (1,16,2) (remaining: 2)
+
+Time 17
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: (1,16,1) (remaining: 1)
+
+Time 18
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 19
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 20
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 21
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 22
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 23
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 24
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 25
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 26
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 27
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 28
+Waiting clients: (3,29,2); 
+Queue 1: closed
+Queue 2: closed
+
+Time 29
+Waiting clients: none
+Queue 1: Waiting for next client
+Queue 2: closed
+
+Time 30
+Waiting clients: none
+Queue 1: (3,29,1) (remaining: 1)
+Queue 2: closed
+
+Average waiting time: 1.25

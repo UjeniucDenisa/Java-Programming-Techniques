@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12" pages="2">
+  <diagram name="Pagină-1" id="w2OKDXZ2GxoELRZ-oPsO">
+    <mxGraphModel dx="1444" dy="979" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o5q47UBPtZO468XgQCLr-1" value="Graphical User Interface" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-187" y="-5" width="142" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="o5q47UBPtZO468XgQCLr-2" value="BusinessLogic" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="189" width="142" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="o5q47UBPtZO468XgQCLr-3" value="DataModel" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="336" y="59" width="152.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o5q47UBPtZO468XgQCLr-4" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=91;entryDy=14;entryPerimeter=0;" edge="1" parent="1" source="o5q47UBPtZO468XgQCLr-1" target="o5q47UBPtZO468XgQCLr-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint y="200" as="sourcePoint" />
+            <mxPoint x="160" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o5q47UBPtZO468XgQCLr-5" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0;exitY=0;exitDx=142;exitDy=64.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=67;entryPerimeter=0;" edge="1" parent="1" source="o5q47UBPtZO468XgQCLr-1" target="o5q47UBPtZO468XgQCLr-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint y="200" as="sourcePoint" />
+            <mxPoint x="160" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o5q47UBPtZO468XgQCLr-7" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0;exitY=0;exitDx=142;exitDy=64.5;exitPerimeter=0;entryX=0.008;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o5q47UBPtZO468XgQCLr-2" target="o5q47UBPtZO468XgQCLr-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-1" y="200" as="sourcePoint" />
+            <mxPoint x="159" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9nbJggW-Q9g4vxXm_z4l" name="Pagină-2">
+    <mxGraphModel dx="1044" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
